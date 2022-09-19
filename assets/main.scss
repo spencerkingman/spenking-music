@@ -1,0 +1,31 @@
+---
+---
+
+$base-font-family: 'Crimson Pro', monospace;
+// $base-font-size:   28px; // changed from 16px
+$spacing-unit: 30px;
+// $content-width: 1000px;
+// $on-laptop: 1000px;
+
+.post-header {
+    .post-title {
+        margin-bottom: 0;
+    }
+
+    .post-tags {
+        margin-bottom: $spacing-unit;
+    }
+}
+
+// named main.scss to overwrite the main.scss in minima's theme (copied to _sass for reference)
+// importing the whole of minima's styles then overwriting a few.
+@import '{{ site.theme }}';
+
+.site-title {
+    letter-spacing: 0;
+}
+
+p {
+    line-height: 1.25;
+    margin-bottom: 1.2rem;
+}
