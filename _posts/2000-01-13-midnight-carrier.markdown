@@ -41,6 +41,11 @@ another earth on the move to fall in love with the air
 another word and a song to call upon me anywhere  
 so here we go  
 
+you’re only one away, one away   
+make a bed  
+here in the melonrind of my arm  
+tuck a head  
+
 you’re  gonna be alive, be alive  
 let it be a little while  
 how many, many nights, you and I?  
