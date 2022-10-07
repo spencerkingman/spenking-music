@@ -15,9 +15,9 @@ G/B  D  G/B  D
 I don't care if my hairdo is in place  
 G/B  D                A4  E7  
 I've lost the very meaning of repose  
-    (G6)  A    E/B             C   Cb5(x3455x)  
+    (G6)  A    E/B             C   C(b5)(x3455x)  
 I never put a mudpack on my face  
-    Edim(x7898x)                   C#4(x32012)  
+    Edim(x7898x)                   C(#11)(x32012)  
 Oh, who'd have thought that I'd walk in a daze now?  
        Baug(x2100x)                              E7  
 I never go to shows at night, just to matinees now  
