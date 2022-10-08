@@ -12,7 +12,7 @@ Seed of malevolence
 The fingers of violence  
 In a garden of evil days  
   
-What is my life in the cauldron of being?  
+What is my life in this cauldron of being?  
 What can see me through the stir of years?  
 When anything can disappear  
 Anyone can have their stem cut  
@@ -28,13 +28,13 @@ Wind, wind, wind
 In a garden of evil days  
   
 Are shadows effacing the sundial?  
-Irradiated waves of heat  
+A growling sky out on the loose  
 I’ll shelter in place while I ride out  
 Another hundred years’ storm, the second one this summer  
   
 In a garden of evil days  
 I don't know how I'm gonna show in you  
-Apocalypse now and then  
+Apocalypse, now and then  
 It's never again, again  
 The devil's a right to know  
 When, when, when  

@@ -5,7 +5,7 @@ permalink: /stolen-bounce/
 published: true
 ---
 
-you’ve been chewing through your pillows; I’m up late  
+you’ve been chewing through your pillow; I’m up late  
 it’s having me for breakfast, shark bait  
   
 if one of us can’t both be wrong  
@@ -14,7 +14,7 @@ cadavres learn their a-b-c
 so level x-ray eyes with me  
   
 when Saturn’s in my headroom, it’s a hard count  
-rubber ring-toss, triple jump --  stolen bounce  
+rubber ring-toss, triple jump -- stolen bounce  
   
 stolen bounce  
 cover, unannounced   
@@ -23,7 +23,7 @@ turning in yr mouth
   
 it’s nothing embarrassing  
 what I’ve been imagining  
-drop me like  an egg on a trampoline  
+drop me like an egg on a trampoline  
 better to sleep in the saddle than bleed an imaginary friend  
   
 vulnerability, stuck in the battery  
@@ -35,7 +35,7 @@ a fissure where my heartbeat saw through me
 can lovers undiscover their bodies?  
   
 if none of us can’t both be wrong...  
-arms fall off,  legs get long  
+arms fall off, legs get long  
 cadavres climb down family tree  
 so wrestle x-ray eyes with me  
   
@@ -54,5 +54,4 @@ better to sleep in the saddle than bleed an imaginary friend
 vulnerability, sucking the battery  
 spirits don’t come out automatically  
 a crack in the egg, let the yolk run amok on the small of my back  
-  
 hard tack  

@@ -2,6 +2,7 @@
 ---
 
 $base-font-family: 'Crimson Pro', monospace;
+$base-font-weight: 400;
 // $base-font-size:   28px; // changed from 16px
 $spacing-unit: 30px;
 // $content-width: 1000px;
@@ -21,8 +22,15 @@ $spacing-unit: 30px;
 // importing the whole of minima's styles then overwriting a few.
 @import '{{ site.theme }}';
 
+body p {
+    @media screen and (max-width: 800px) {
+        font-size: 1rem;
+    }
+}
+
 .site-title {
     letter-spacing: 0;
+    font-size: 16px;
 }
 
 p {
@@ -31,7 +39,7 @@ p {
     font-size: 1.4rem;
 }
 
-.post-list { 
+.post-list {
     li {
         margin-bottom: 0;
     }
@@ -39,6 +47,7 @@ p {
 
 a {
     color: black;
+    font-weight: 500;
 }
 
 .footer-col-wrapper {

@@ -50,11 +50,11 @@ I'll forage in the forest for a salt lick
 Cause very song is a love song  
 A "me and you" or "you and I"   
 Every show is a cop show  
-A Law and order, csi  
+A Law and Order, CSI  
 Every turn is a right one  
 A triple wrong is how I left  
 Every joke is a sick one  
-The devil quacked and Jesus wept  
+The devil quacked, and Jesus wept  
   
 Maybe you can pick the carcass cold  
 I'll just be here  
@@ -62,11 +62,11 @@ Chasing bones and lights
 Till I drop through a noodle's eye  
 Or hole up in the hay of high ideals  
   
-To see if I can't wake up  
-From this graceless, burning sunburn.  
-The number on my baseball card  
-Is not a baseball number.  
+To gather in my life amess  
+And braid a golden necklace.  
+To turn my nose at childish things  
+And braid the golden necklace  
   
-Its a Marianas Trench  
-A tub-o-lard in a sea of pitch   
-Angels in the outhouse with the moon door  
+All alone in my old heart  
+Too, alive, but the scattered parts  
+Can never seem to manifest whole hog  

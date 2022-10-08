@@ -11,7 +11,7 @@ if they do they want the car
 I can hear everything you say  
 I'm gonna go deaf today  
   
-guarantee to feel my wrath  
+guaranteed to feel my wrath  
 please don't feed the dogs fast food  
 
 `G Fm`   

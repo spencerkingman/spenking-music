@@ -23,7 +23,7 @@ feeble trample in the dump crunch
 what are we mining for?  
 crude chore  
   
-solder in a crowded vacuum   
+solder in a cloudy vacuum   
 milky diodes  
 slip-through photons and blind loops  
 rough halogen glyph descried   
@@ -43,7 +43,7 @@ hot shell?
   
 swimming in shallow orbit  
 floating magnets  
-spin around the pool at full zoom  
+spin around the room at full zoom  
 gamma rays pass right through  
 full moon  
   

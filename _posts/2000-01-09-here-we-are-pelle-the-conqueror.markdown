@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Here We Are (Pelle)"
-permalink: /here-we-are-pelle/
+title: "Here We Are (Pelle the Conqueror)"
+permalink: /here-we-are-pelle-the-conqueror/
 published: true
 ---
 
@@ -10,7 +10,7 @@ deserving than you are
 of a bed behind the cows  
 or china on the walls  
   
-why awake?  
+peel it off  
 something isn't right  
 tremble at the sight  
 of a crowd in the yard late at night  
