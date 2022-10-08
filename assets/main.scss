@@ -48,6 +48,10 @@ p {
 a {
     color: black;
     font-weight: 500;
+
+    &:visited {
+        color: black;
+    }
 }
 
 .footer-col-wrapper {
