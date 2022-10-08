@@ -23,7 +23,7 @@ $spacing-unit: 30px;
 @import '{{ site.theme }}';
 
 body p {
-    @media screen and (max-width: 800px) {
+    @media screen and (max-width: 767px) {
         font-size: 1rem;
     }
 }
