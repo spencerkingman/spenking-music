@@ -2,6 +2,8 @@
 layout: post
 title: "Gravel Scrabble"
 permalink: /gravel-scrabble/
+categories:
+    - older
 published: true
 ---
 

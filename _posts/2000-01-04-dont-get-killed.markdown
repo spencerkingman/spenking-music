@@ -2,6 +2,8 @@
 layout: post
 title: "Don't Get Killed"
 permalink: /dont-get-killed/
+categories:
+    - older
 published: true
 ---
 

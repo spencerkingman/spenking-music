@@ -3,10 +3,7 @@ layout: default
 ---
 
 <div class="home">
-    {%- if page.title -%}
-    <h1 class="page-heading">{{ page.title }}</h1>
-    {%- endif -%} {{ content }}
-
+    {{ content }}
     <ul class="post-list">
         {%- for post in site.posts reversed -%}
         <li>
@@ -15,5 +12,27 @@ layout: default
         {%- endfor -%}
     </ul>
 
-    <!-- <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | relative_url }}">via RSS</a></p> -->
+    <!-- If I want to use categories VVV-->
+
+    <!-- <h2 class="page-heading">Newest</h1>
+    <ul class="post-list">
+        {%- for post in site.posts reversed -%}
+        {%- unless post.categories contains "older" -%}
+        <li>
+            <a class="post-link" href="{{ post.url | relative_url }}"> {{ post.title | escape }} </a>
+        </li>
+        {%- endunless -%}
+        {%- endfor -%}
+    </ul>
+    
+    <h2 class="page-heading">Older</h2>
+    <ul class="post-list">
+        {%- for post in site.posts reversed -%}
+        {%- if post.categories contains "older" -%}
+        <li>
+            <a class="post-link" href="{{ post.url | relative_url }}"> {{ post.title | escape }} </a>
+        </li>
+        {%- endif -%}
+        {%- endfor -%}
+    </ul> -->
 </div>
