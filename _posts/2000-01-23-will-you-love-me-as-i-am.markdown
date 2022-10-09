@@ -15,5 +15,5 @@ Will you twirl me in your hands? / Our fires shrink as the universe expands / Bu
 Find a stud in the wall, and I'll hang us a painting that'll never fall / a color to your magic eye / a'hanging / over and over / the breath of the bleeding sun / over and over / the mountains and megatons / over and over / the spread of the day and night / over and over and over / to reckon with the recondite
 
 <!-- Hey, I know it's a lot to be melting the elements down in a fire, but heretofore, I've been all cocky-eyed / 
-To see the manifestations appearing
+To see the manifestations of __ appearing there
 Accompany me on this heady journey. Defenestrate -->

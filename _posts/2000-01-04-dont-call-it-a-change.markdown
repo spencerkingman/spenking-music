@@ -4,12 +4,6 @@ title: "Don't Call It a Change"
 permalink: /dont-call-it-a-change/
 published: true
 ---
-
-When You're going extinct  
-Don't call it a change  
-You're going extinct  
-Don't call it a change  
-Don't call it a climate change  
   
 In the last second of the year of the Earth  
 A charnel house captured in a layer of dirt  
@@ -23,8 +17,8 @@ You're going extinct
 Don't call it a change  
 Don't call it a climate change  
    
-Your 2 degrees is holding like a Maginot wall  
-But in Fahrenheit its 4 degrees, and that's overall  
+2 degrees is holding like a Maginot wall  
+In Fahrenheit its 4 degrees, but that's overall  
 The air over the water doesn't warm as fast as land  
 One day we're gonna wake up on an unfamiliar planet  
   
@@ -57,7 +51,7 @@ It's enough to make you cynical, but now is not the time
 There's twenty trillion dollars in the offshore accounts  
 How much would it cost to put the carbon underground?  
 You can suck it from the air and fuse it with basalt  
-I don't want to die with all that money in a vault  
+I don't want to die with all this money in a vault  
 Or why not plant a shit-ton of trees?  
   
 We're going extinct  

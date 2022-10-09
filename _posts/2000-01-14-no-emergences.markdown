@@ -57,13 +57,13 @@ nothing's permitted
 not your body bare  
 or covered up in here  
 
-living cities break apart and float like lifeboats  
+living cities break apart and float like nightboats  
 this station's on an ocean with no shore to row to  
   
 so come home to me when you want  
 but not so blunt  
   
-I'll pretend that you're living here  
+I pretend you're still living here  
 and your lovely eyes do appear  
 I pretend that you've been with me  
 it exhausts all my energy  

@@ -33,7 +33,7 @@ It never entered my mind
   
 And once you told me I was mistaken  
 That I'd awaken with the sun  
-And ordered orange juice for one  
+And order orange juice for one  
 It never entered my mind  
   
 `G6          A9           Dmaj7         (Em7)`  

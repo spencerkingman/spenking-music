@@ -46,9 +46,7 @@ make a bed
 here in the melonrind of my arm  
 tuck a head  
 
-you’re  gonna be alive, be alive  
-let it be a little while  
+you’re gonna be alive, be alive  
+let it be a while  
 how many, many nights, you and I?  
-many, many, my…  
-my love  
-
+many, many, my…    

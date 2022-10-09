@@ -60,6 +60,6 @@ when parallels unwind and fall out of line
 thirsty for a form divine  
 I found a formula for your headline  
   
-but how can I make words so apposite,  
-flailing like a hair of snakes,  
+but how can I make words? They're so opposite  
+flailing like a hair of snakes  
 all hot to harbor you in some raw space?  

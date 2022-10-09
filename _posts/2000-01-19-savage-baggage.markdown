@@ -40,7 +40,7 @@ Look what came: empty box, sign your name
 _Noble paper keeping tabs on a file_  
 _Words gather up in a random pile_  
 _Incantations of the law of the wild_  
-_Brass in the ears of a newborn child_  
+_It's brass in the ears of a newborn child_  
   
 Why do I believe that I could be  
 further from you than you from me?  

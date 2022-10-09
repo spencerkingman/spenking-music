@@ -20,19 +20,19 @@ and this, my only dollar
 this my only dollar bill shall not leave me wasted  
 rolled up on the tower steps like some peeling orange  
 arts & culture, dish-wash, chauffeur   
-it’s written in the windex:  
+it’s written on the windex:  
 Siegfried got a raw deal  
   
 sprinklers make their move at night, cooling off the phantoms  
 hop the wall and duck them all, stucco on my chin  
 never leave your A/C halo  
-hanging muggers rove  
+hanging, muggers row  
 valley’s in the nineties  
   
 spill-proof carpet, shapeshift glass, inside-out apartment  
 place your hand in someone’s pool, let them pull through you  
 charcoal, sand art, vacuum, landmark  
 planes keep shoveling in  
-from nowhere, any people  
+nowhere, any people  
 
 

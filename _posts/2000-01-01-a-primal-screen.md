@@ -39,9 +39,9 @@ _For somewhere to run... all there, or none_
 _Into a void... all there, or none_  
 _To do and be done... all there, or none_  
   
-I goeth not   
+So, goeth not   
 To this ground  
-But all the air is wired  
+Though all the air is wired  
 Apple of my eye  
 Overloaded child   
 Can you look into the hue and cry  
