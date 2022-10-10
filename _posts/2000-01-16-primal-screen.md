@@ -1,7 +1,7 @@
 ---      
 layout: post    
-title: "A Primal Screen"    
-permalink: /a-primal-screen/    
+title: "Primal Screen"    
+permalink: /primal-screen/    
 published: true    
 ---    
     
