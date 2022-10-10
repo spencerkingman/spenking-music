@@ -29,5 +29,3 @@ I don't need a secret proof
 of the famous truth  
 when blood in my ear  
 is all I can hear  
-blood in my hair  
-blood everywhere  
