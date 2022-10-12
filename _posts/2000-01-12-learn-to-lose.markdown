@@ -6,7 +6,9 @@ categories:
     - covers
 published: true  
 ---  
-  
+
+([Diane Cluck from _Common Wealth_](https://dianecluck.info/album/1593986/common-wealth))
+
 E B  
 All of the signs say  
 A6 G#m F#m A B   
