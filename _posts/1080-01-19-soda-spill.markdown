@@ -7,6 +7,8 @@ categories:
 published: true
 ---
 
+(capo: 8)
+
 trail-blaze all the parking lot's monumental signage  
 with the breath you carried here underneath your tongue  
 conquered silent, concrete island   

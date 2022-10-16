@@ -5,6 +5,8 @@ permalink: /midnight-carrier/
 published: true
 ---
 
+(capo: 1)
+
 midnight carrier  
 breast-warm burier  
 untrained melody  

@@ -5,6 +5,8 @@ permalink: /desolate-boundary/
 published: true
 ---
 
+(capo: 2)
+
 wandering, following  
 waking up my calling  
 it’s hot on your trail  

@@ -4,7 +4,9 @@ title: "Primal Screen"
 permalink: /primal-screen/    
 published: true    
 ---    
-    
+
+(capo: 4)  
+
 A primal screen  
 I can't look at it  
 Awful, what's occurred  
@@ -53,3 +55,4 @@ Seraphim leaving the EARTH like it's over.
 A fever incandescent  
 And resurrection gore  
 The tesseracts haven't a clue who to come for  
+

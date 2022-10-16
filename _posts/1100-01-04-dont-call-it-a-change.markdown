@@ -5,6 +5,8 @@ permalink: /dont-call-it-a-change/
 published: true
 ---
   
+(capo: 1)
+
 In the last second of the year of the Earth  
 A charnel house captured in a layer of dirt  
 It wasn't a volcano or the continental shelf  
