@@ -43,12 +43,12 @@ And braid a golden necklace.
 To turn my nose at childish things  
 And braid the golden necklace  
   
-Should a feast fall in the lap?   
+Should a feast fall in our lap?   
 Go to town in the butterfat  
 I'll forage in the forest for a salt lick  
   
 Cause very song is a love song  
-A "me and you" or "you and I"   
+A "you and me" or "me and I"   
 Every show is a cop show  
 A Law and Order, CSI  
 Every turn is a right one  
