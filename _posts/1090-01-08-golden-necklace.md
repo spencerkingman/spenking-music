@@ -9,15 +9,15 @@ Pick any bone of contention
 The chicken's split into two sides  
 Every wish that I make now  
 Feels like gambling in disguise  
-I only sing on the pay phone  
-There's lucky quarters in my shoe  
-Are you addicted to pig slop?  
+I only talk on the pay phone  
+There's useless quarters in my shoe  
+Are you addicted to bullshit?  
 Oh ho ho, me too
 
 Maybe you can kick the habit cold  
 I'll just be here  
 Chasing bones and lights  
-Till I drop through a noodle's eye  
+Till I fall through a noodle's eye  
 Or hole up in the hay of high ideals
 
 To see if I can't wake up  
@@ -34,7 +34,7 @@ And little lambs eat ivy
 Everyone's so scared to hear your prayers  
 But why should I be?
 
-All alone in my old heart  
+Me, alone in my old heart  
 Too, alive, but the scattered parts  
 Can never seem to manifest whole hog
 
@@ -70,3 +70,7 @@ And braid the golden necklace
 All alone in my old heart  
 Too, alive, but the scattered parts  
 Can never seem to manifest whole hog
+
+--
+
+<iframe src="../assets/videos/2023-07-14-golden-necklace.mp4" frameborder="0" allowfullscreen></iframe>
