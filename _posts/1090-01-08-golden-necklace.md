@@ -17,7 +17,7 @@ Oh ho ho, me too
 Maybe you can kick the habit cold  
 I'll just be here  
 Chasing bones and lights  
-Till I fall through a noodle's eye  
+Till I walk through a needle's eye  
 Or hole up in the hay of high ideals
 
 To see if I can't wake up  
@@ -43,11 +43,11 @@ And braid a golden necklace.
 To turn my nose at childish things  
 And braid the golden necklace
 
-Should a feast fall in our lap?  
+Should a feast fall in our vats?  
 Go to town in the butterfat  
 I'll forage in the forest for a salt lick
 
-Cause every song is a love song  
+Where every song is a love song  
 A "you and me" or "me and I"  
 Every show is a cop show  
 A Law and Order, CSI  
@@ -59,17 +59,13 @@ The devil quacked, and Jesus wept
 Maybe you can pick the carcass cold  
 I'll just be here  
 Chasing bones and lights  
-Till I drop through a noodle's eye  
+Till I flop through a noodle's eye  
 Or hole up in the hay of high ideals
 
 To gather in my life amess  
 And braid a golden necklace.  
 To turn my nose at childish things  
 And braid the golden necklace
-
-All alone in my old heart  
-Too, alive, but the scattered parts  
-Can never seem to manifest whole hog
 
 --
 
