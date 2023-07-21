@@ -56,4 +56,4 @@ to appear
 
 --
 
-<iframe src="../assets/videos/2023-07-13-pelle.mp4" frameborder="0" allowfullscreen></iframe>
+<iframe src="../assets/videos/2023-07-13-pelle.mp4" frameborder="0" allowfullscreen sandbox></iframe>

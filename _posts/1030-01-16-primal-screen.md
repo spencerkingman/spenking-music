@@ -58,4 +58,4 @@ The tesseracts haven't a clue who to come for
 
 --
 
-<iframe src="../assets/videos/2023-07-13-primal.mp4" frameborder="0" allowfullscreen></iframe>
+<iframe src="../assets/videos/2023-07-13-primal.mp4" frameborder="0" allowfullscreen sandbox></iframe>

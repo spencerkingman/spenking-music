@@ -27,4 +27,4 @@ Fatalistic to no end
 
 --
 
-<iframe src="../assets/videos/2022-01-05-untitled-1.mp4" frameborder="0" allowfullscreen></iframe>
+<iframe src="../assets/videos/2022-01-05-untitled-1.mp4" frameborder="0" allowfullscreen sandbox></iframe>
