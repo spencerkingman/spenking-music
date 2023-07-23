@@ -28,9 +28,9 @@ You've got all your life (get up)
 Way up ahead
 
 `B F# G D E`  
-Dreams, they complicate my life  
+Dreams may complicate your life  
 `B F# G D F`  
-Dreams, they _compliment_ my life
+Dreams may _compliment_ your life
 
 Number five. Not / everybody / knows this one, but / when your eyes are / closed your bed does not stay / on the floor. It / floats around the / room or hovers / high above the / Earth. Its hard to see because / every time you / peek, the bed goes / back to where it / was. And six is / just pretend to be a / sleep. If none of / those things work, then / climb into your / parents' bed, or / better yet, your / sister's. How to...
 
