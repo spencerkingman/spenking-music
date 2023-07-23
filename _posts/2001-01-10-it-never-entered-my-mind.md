@@ -1,13 +1,13 @@
 ---
 layout: post
-title: "It Never Entered My Mind"
+title: 'It Never Entered My Mind'
 permalink: /it-never-entered-my-mind/
-category: 
+category:
     - covers
-published: true
+published: false
 ---
 
-(Rogers and Hart, John Lewis)  
+(Rogers and Hart, John Lewis)
 
 `G/B  D  G/B  D`  
 I don't care if there's powder on my nose  
@@ -24,23 +24,23 @@ I never go to shows at night, just to matinees now
 `A4     A`  
 I see the show  
 `Am7   Adom6(x03200)`  
-And home I go  
-  
+And home I go
+
 Once I laughed when I heard you saying  
 That I'd be playing solitaire  
 Uneasy in my easy chair  
-It never entered my mind  
-  
+It never entered my mind
+
 And once you told me I was mistaken  
 That I'd awaken with the sun  
 And order orange juice for one  
-It never entered my mind  
-  
+It never entered my mind
+
 `G6          A9           Dmaj7         (Em7)`  
 You had what I lack, myself  
 `Dmaj7 G6   A6      Bdim       A9      F#m7 Daug(xxx332)`  
-Now I even have to scratch my back myself  
-  
+Now I even have to scratch my back myself
+
 Once you warned me that if you scorned me,  
 I'd say the maiden's prayer again  
 `Am   Adim`  

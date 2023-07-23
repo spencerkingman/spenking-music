@@ -4,7 +4,7 @@ title: 'Hallowed Ground'
 permalink: /hallowed-ground/
 category:
     - covers
-published: true
+published: false
 ---
 
 (by Violent Femmes)
