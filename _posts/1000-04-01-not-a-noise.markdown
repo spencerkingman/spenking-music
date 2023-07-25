@@ -5,6 +5,9 @@ permalink: /not-a-noise/
 published: true
 ---
 
+(by Claire Cronin)
+(capo 3)
+
 `F Em(b9)`  
 Not a noise, not a song  
 `F Emb9 Dm`  
@@ -13,7 +16,7 @@ Not a light, not a long October
 Take me over  
 `C Em`  
 `F(b5) G9`  
-What was real in the thaw  
+What was true in the thaw  
 `Am9 G`  
 was a lie you just thought  
 `F`  

@@ -5,6 +5,8 @@ permalink: /golden-necklace/
 published: true
 ---
 
+(capo: 8)
+
 Pick any bone of contention  
 The chicken's split into two sides  
 Every wish that I make now  
