@@ -21,7 +21,7 @@ With two children
 Oh, do I feel like the mother of the world  
 With two children, fighting  
 
-`B   F#`  
+`F# B`  
 When I was a boy,  
 I used to get into it bad with my sister.  
 And when the time came to face the truth  
