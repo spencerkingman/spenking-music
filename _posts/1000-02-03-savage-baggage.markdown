@@ -7,14 +7,14 @@ published: true
 
 Why do I believe that I could be  
 further from you than you from me?  
-Family symmetries cut the line.  
+Family chemistries cut the line.  
     Settle them far from home.      
     Holograph on the bone of a clone.
 
 Why do I believe in what will grow?  
 Cover up the window with the door.  
 Careful, I'm not too sore to explore  
-    So, come and land, u.f.o.      
+    So, come and land, u.f.o.  
     Aliens will lay me low  
     Let it go
 
@@ -25,7 +25,7 @@ _Rules are a game in and of themself_
 
 Crawl around the network on my face  
 How to be alive and leave no trace?  
-Perfect skin, check me in, hop the gate  
+Perfect skin, cut me in, hop the gate  
     CAPTCHAs on each arm  
     Tell 'em we mean no harm  
     To the farm
