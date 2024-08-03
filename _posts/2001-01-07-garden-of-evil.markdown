@@ -2,6 +2,8 @@
 layout: post
 title: "Garden of Evil"
 permalink: /garden-of-evil/
+categories: 
+    - " "
 published: true
 ---
 

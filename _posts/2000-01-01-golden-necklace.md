@@ -2,6 +2,8 @@
 layout: post
 title: 'Golden Necklace'
 permalink: /golden-necklace/
+categories: 
+    - " "
 published: true
 ---
 

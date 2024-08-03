@@ -3,8 +3,8 @@ layout: post
 title: 'It Never Entered My Mind'
 permalink: /it-never-entered-my-mind/
 category:
-    - covers
-published: false
+    - Covers
+published: true
 ---
 
 (Rogers and Hart, John Lewis)

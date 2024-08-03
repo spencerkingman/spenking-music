@@ -2,6 +2,8 @@
 layout: post
 title: 'Primal Screen'
 permalink: /primal-screen/
+categories: 
+    - " "
 published: true
 ---
 

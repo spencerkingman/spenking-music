@@ -2,6 +2,8 @@
 layout: post
 title: "Everyone Who Smiles Does Wrong"
 permalink: /everyone-who-smiles-does-wrong/
+categories: 
+    - " "
 published: true
 ---
 

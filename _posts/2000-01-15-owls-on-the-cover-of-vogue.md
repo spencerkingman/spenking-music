@@ -2,6 +2,8 @@
 layout: post  
 title: "Owls on the Cover of Vogue"  
 permalink: /owls-on-the-cover-of-vogue/  
+categories: 
+    - " "
 published: true  
 ---  
   

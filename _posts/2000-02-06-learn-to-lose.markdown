@@ -3,7 +3,7 @@ layout: post
 title: 'Learn to Lose'
 permalink: /learn-to-lose/
 categories:
-    - covers
+    - " "
 published: true
 ---
 

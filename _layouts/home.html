@@ -6,12 +6,36 @@ layout: default
     {{ content }}
     <ul class="post-list">
         {%- for post in site.posts reversed -%}
+        {%- unless post.categories contains "Bad Blood, Good Blood" -%}
         <li>
             <a class="post-link" href="{{ post.url | relative_url }}"> {{ post.title | escape }} </a>
         </li>
+        {%- endunless -%}
         {%- endfor -%}
     </ul>
-
+    <span class="post-link album-name" name="Bad Blood, Good Blood">Bad Blood, Good Blood</span>
+    <ul class="post-list">
+        {%- for post in site.posts reversed -%}
+        {%- if post.categories contains "Bad Blood, Good Blood" -%}
+        <li>
+            <a class="post-link" href="{{ post.url | relative_url }}"> {{ post.title | escape }} </a>
+        </li>
+        {%- endif -%}
+        {%- endfor -%}
+    </ul>
+    <!-- 
+    <ul class="post-list">
+        {% for category in site.categories %}
+          <li ><span class="post-link album-name" name="{{ category | first }}">{{ category | first }}</span>
+            <ul class="post-list post-list--indented">
+            {% for post in category.last %}
+              <li><a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a></li>
+            {% endfor %}
+            </ul>
+          </li>
+        {% endfor %}
+    </ul>
+     -->
     <!-- If I want to use categories VVV-->
 
     <!-- <h2 class="page-heading">Newest</h1>

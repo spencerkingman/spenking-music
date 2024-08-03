@@ -2,6 +2,8 @@
 layout: post
 title: 'Savage Baggage'
 permalink: /savage-baggage/
+categories: 
+    - " "
 published: true
 ---
 

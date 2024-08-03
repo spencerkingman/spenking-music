@@ -2,6 +2,8 @@
 layout: post
 title: "Desolate Boundary"
 permalink: /desolate-boundary/
+categories: 
+    - " "
 published: true
 ---
 

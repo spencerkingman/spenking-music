@@ -2,6 +2,8 @@
 layout: post
 title: 'Fall Asleep How-To'
 permalink: /fall-asleep-how-to/
+categories: 
+    - " "
 published: true
 ---
 
