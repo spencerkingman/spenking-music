@@ -5,9 +5,11 @@ permalink: /everyone-who-smiles-does-wrong/
 published: true
 ---
 
+`xxx343            xxx121 xxx343`  
 everyone who smiles does wrong  
 if they do they want the car  
   
+`xxx121                   xxx343`  
 I can hear everything you say  
 I'm gonna go deaf today  
   
@@ -20,10 +22,13 @@ and don't build a wall
 I can see through you  
 `D G`  
 and after all  
-`Bbm7 Eb7`  
+`Bbm7 Eb7 (Eb6)`  
 what would it do?  
-  
-I've got walls enough, don't I  
-  
+
+`C Gm C`  
+I've got walls enough, don't I?  
+walls and bags enough, woah nigh  
+
+`Bb C`
 I can hear everything you say  
 I'm gonna go deaf today  

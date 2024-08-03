@@ -3,18 +3,18 @@ layout: post
 title: "Don't Get Killed"
 permalink: /dont-get-killed/
 categories:
-    - older
+    - Bad Blood, Good Blood
 published: true
 ---
 
 I sleep at dusk, and I wake at dawn.  
 I see a fire from the roof I’m on.  
 Who could we punish?  
-I know they’ve done this  
+I know they’ve done it  
 just to set me off.  
   
 But I jumped out of the sea.  
-So get these wet clothes off of me.  
+to get these wet clothes off of me.  
 Into a furnace; it doesn’t burn us.  
 Let’s go find that dog,  
 and bark the roll call out  

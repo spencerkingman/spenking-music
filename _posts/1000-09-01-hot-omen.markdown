@@ -3,7 +3,7 @@ layout: post
 title: "Hot Omen"
 permalink: /hot-omen/
 categories:
-    - older
+    - Bad Blood, Good Blood
 published: true
 ---
 

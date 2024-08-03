@@ -4,7 +4,7 @@ title: 'I Feel Like the Mother of the World'
 permalink: /i-feel-like-the-mother-of-the-world/
 category:
     - covers
-published: true
+published: false
 ---
 
 (by Smog)

@@ -3,7 +3,7 @@ layout: post
 title: 'Gravel Scrabble'
 permalink: /gravel-scrabble/
 categories:
-    - older
+    - Bad Blood, Good Blood
 published: true
 ---
 

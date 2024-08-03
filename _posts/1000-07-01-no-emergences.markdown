@@ -3,7 +3,7 @@ layout: post
 title: "No Emergences"
 permalink: /no-emergences/
 categories:
-    - older
+    - Bad Blood, Good Blood
 published: true
 ---
 
@@ -20,10 +20,10 @@ we'll all be fat-faced when more come
 
 hurry-home ride, windshield sun  
 no dimension tonight  
-the teenagers fight  
+infinities fight  
 they carry candlelight  
 in the open street  
-with coffee, bed, and tea  
+cigarette and tea  
 baby, come and see  
 
 normal life is buried in this carnage garbage  
@@ -67,5 +67,5 @@ but not so blunt
   
 I pretend you're still living here  
 and your lovely eyes do appear  
-I pretend that you've been with me  
+I pretend that you're here with me  
 it exhausts all my energy  

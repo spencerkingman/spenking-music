@@ -1,5 +1,7 @@
 # spenking-music
 
+`bundle exec jekyll serve`
+
 ```
 ffmpeg -i assets/videos/2022-01-05-untitled-1.mov -vcodec h264 -acodec aac assets/videos2022-01-05-untitled-1.mp4
 ```
