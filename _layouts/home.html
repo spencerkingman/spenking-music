@@ -7,16 +7,30 @@ layout: default
     <ul class="post-list">
         {%- for post in site.posts reversed -%}
         {%- unless post.categories contains "Bad Blood, Good Blood" -%}
+        {%- unless post.categories contains "Crosses Split" -%}
         <li>
             <a class="post-link" href="{{ post.url | relative_url }}"> {{ post.title | escape }} </a>
         </li>
         {%- endunless -%}
+        {%- endunless -%}
         {%- endfor -%}
     </ul>
+
     <span class="post-link album-name" name="Bad Blood, Good Blood">Bad Blood, Good Blood</span>
     <ul class="post-list">
         {%- for post in site.posts reversed -%}
         {%- if post.categories contains "Bad Blood, Good Blood" -%}
+        <li>
+            <a class="post-link" href="{{ post.url | relative_url }}"> {{ post.title | escape }} </a>
+        </li>
+        {%- endif -%}
+        {%- endfor -%}
+    </ul>
+
+    <span class="post-link album-name" name="Crosses Split">Crosses Split</span>
+    <ul class="post-list">
+        {%- for post in site.posts reversed -%}
+        {%- if post.categories contains "Crosses Split" -%}
         <li>
             <a class="post-link" href="{{ post.url | relative_url }}"> {{ post.title | escape }} </a>
         </li>
