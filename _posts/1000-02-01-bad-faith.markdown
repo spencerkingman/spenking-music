@@ -36,3 +36,8 @@ I'm full of horror; you should mind your own
 my camouflage is white as bone!    
 my color memory is a western rust    
 it sees a deathwish behind the bloodlust    
+
+<audio controls style="width:100%;margin:2rem auto 0;">
+  <source src="../assets/audio/Bad Faith.mp3" type="audio/mpeg">
+Your browser does not support the audio element.
+</audio>
