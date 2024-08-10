@@ -46,3 +46,8 @@ hide me at work times
 sleep eye, weep eye  
 pay devil, pay diamond  
 so I can take every one that's on the island  
+
+<audio controls style="width:100%;margin:2rem auto 0;">
+  <source src="../assets/audio/Bad Blood Bubble-Up.mp3" type="audio/mpeg">
+Your browser does not support the audio element.
+</audio>
