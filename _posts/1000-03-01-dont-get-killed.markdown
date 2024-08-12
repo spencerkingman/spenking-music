@@ -26,3 +26,8 @@ tied up and naked. I couldn’t take it.
 Laid right down and died.  
 I’m busting out worldwide.  
 Call it what you like.  
+
+<audio controls style="width:100%;margin:2rem auto 0;">
+  <source src="../assets/audio/Don&apos;t Get Killed.mp3 type="audio/mpeg">
+Your browser does not support the audio element.
+</audio>

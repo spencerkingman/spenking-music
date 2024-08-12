@@ -34,3 +34,8 @@ walls and bags enough, woah nigh
 `Bb C`  
 I can hear everything you say  
 I'm gonna go deaf today  
+
+<audio controls style="width:100%;margin:2rem auto 0;">
+  <source src="../assets/audio/Everyone Who Smiles Does Wrong.mp3" type="audio/mpeg">
+Your browser does not support the audio element.
+</audio>
