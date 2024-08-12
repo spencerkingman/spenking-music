@@ -31,6 +31,6 @@ what would it do?
 I've got walls enough, don't I?  
 walls and bags enough, woah nigh  
 
-`Bb C`
+`Bb C`  
 I can hear everything you say  
 I'm gonna go deaf today  
