@@ -19,7 +19,7 @@ _Fall asleep, how to_
 _fall asleep, how to_  
 _fall asleep_
 
-`B`  
+<!-- `B`  
 `E A`  
 Sleep delays my life (get up)  
 Where does the time go (get up)  
@@ -32,7 +32,7 @@ Way up ahead
 `B F# G D E`  
 Dreams may complicate your life  
 `B F# G D F`  
-Dreams may _compliment_ your life
+Dreams may _compliment_ your life -->
 
 Number five. Not / everybody / knows this one, but / when your eyes are / closed your bed does not stay / on the floor. It / floats around the / room or hovers / high above the / Earth. Its hard to see because / every time you / peek, the bed goes / back to where it / was. And six is / just pretend to be a / sleep. If none of / those things work, then / climb into your / parents' bed, or / better yet, your / sister's. How to...
 
