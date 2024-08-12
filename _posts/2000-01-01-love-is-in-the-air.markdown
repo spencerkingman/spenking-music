@@ -79,8 +79,6 @@ Lead me through the fray
 Not too long ago  
 Not too far away  
 
---
-
 <audio controls style="width:100%;margin:2rem auto 0;">
   <source src="../assets/audio/Love is in the Air.mp3" type="audio/mpeg">
 Your browser does not support the audio element.
