@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Don't Call It a Change"
+title: "Don't Call it a Change"
 permalink: /dont-call-it-a-change/
 categories: 
     - " "
