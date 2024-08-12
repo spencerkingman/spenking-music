@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Donald Canestraro's Court Filing"
-permalink: /primal-screen/
+permalink: /donald-canestraros-court-filing/
 categories: 
     - " "
 published: true
