@@ -2,7 +2,7 @@
 layout: post
 title: 'Brushed With Oil, Dusted With Powder'
 permalink: /brushed-with-oil-dusted-with-powder/
-published: false
+published: true
 ---
 
 (by Scritti Politti)
