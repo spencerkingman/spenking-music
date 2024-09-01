@@ -3,7 +3,7 @@ layout: post
 title: 'Sonnet 43'
 permalink: /sonnet-43/
 categories: 
-    - covers
+    - Covers
 published: true
 ---
 

@@ -3,7 +3,7 @@ layout: post
 title: 'Brushed With Oil, Dusted With Powder'
 permalink: /brushed-with-oil-dusted-with-powder/
 categories: 
-    - covers
+    - Covers
 published: true
 ---
 

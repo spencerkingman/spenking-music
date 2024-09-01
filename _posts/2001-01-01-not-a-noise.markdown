@@ -2,7 +2,9 @@
 layout: post
 title: 'Not a Noise'
 permalink: /not-a-noise/
-published: false
+categories:
+    - Covers
+published: true
 ---
 
 (by Claire Cronin)
