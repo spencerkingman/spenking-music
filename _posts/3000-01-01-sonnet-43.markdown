@@ -1,4 +1,4 @@
----
+---  
 layout: post
 title: 'Sonnet 43'
 permalink: /sonnet-43/
@@ -9,40 +9,40 @@ published: true
 
 (by Shakespeare, Rufus Wainwright)
 
-`E Eaug F Faug x2`
+`E Eaug F Faug x2`  
 
-`E Eaug F Faug C#dim`
-When most I wink then do mine eyes best see
-`E Eaug F Faug D5b/F#`
-For all the day they view things unrespected
-`E Eaug F Faug C#dim`
-But when I sleep in dreams they look on thee
-`E Eaug F Faug D5b/F#`
-And darkly bright are bright in dark directed
-
-`E Eaug F Faug x2`
-
-`E Eaug Asus4 Amaj7 C#m7add9 (x46444) C#m7/D (056450) B7sus4/E (042400) E`
-Then thou whose shadow shadows doth make bright
-`Eaug F Fmaj7 E Bm E Eaug`
-How would thy shadow's form form happy show
-`Bm E`
-`E Eaug Asus4 Amaj7 C#m7add9 (x46444) C#m7/D (056450) A E`
-To the clear day with thy much clearer light
-`Bm E Eaug F Faug E Eaug F Faug`
-When to unseeing eyes thy shade shines so
-`Bm E Eaug F Faug E Eaug F Faug`
-[too-doo-doo-doo]
-
-How would I say mine eyes be blessed made
-By looking on thee in the living day
-When in dead night thy fair imperfect shade
-Through heavy sleep on sightless eyes doth stay
- 
-`E Eaug F Faug`
-`E Eaug E Eaug x2`
-
-`Bm E x4`
-All days are nights to see till I see thee
-`A Am E Gdim F#m Bb E Eaug F Faug E` 
+`E Eaug F Faug C#dim`  
+When most I wink then do mine eyes best see  
+`E Eaug F Faug D5b/F#`  
+For all the day they view things unrespected  
+`E Eaug F Faug C#dim`  
+But when I sleep in dreams they look on thee  
+`E Eaug F Faug D5b/F#`  
+And darkly bright are bright in dark directed  
+  
+`E Eaug F Faug x2`  
+  
+`E Eaug Asus4 Amaj7 C#m7add9 (x46444) C#m7/D (056450) B7sus4/E (042400) E`  
+Then thou whose shadow shadows doth make bright  
+`Eaug F Fmaj7 E Bm E Eaug`  
+How would thy shadow's form form happy show  
+`Bm E`  
+`E Eaug Asus4 Amaj7 C#m7add9 (x46444) C#m7/D (056450) A E`  
+To the clear day with thy much clearer light  
+`Bm E Eaug F Faug E Eaug F Faug`  
+When to unseeing eyes thy shade shines so  
+`Bm E Eaug F Faug E Eaug F Faug`  
+[too-doo-doo-doo]  
+  
+How would I say mine eyes be blessed made  
+By looking on thee in the living day  
+When in dead night thy fair imperfect shade  
+Through heavy sleep on sightless eyes doth stay  
+   
+`E Eaug F Faug`  
+`E Eaug E Eaug x2`  
+  
+`Bm E x4`  
+All days are nights to see till I see thee  
+`A Am E Gdim F#m Bb E Eaug F Faug E`   
 And nights bright days when dreams do show thee me
