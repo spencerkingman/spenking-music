@@ -12,6 +12,11 @@ permalink: /set-list/
             <a class="post-link" href="../final-day/">Final Day</a>
             <a class="post-link" href="../5-to-8-hours-a-day-wwwag/">5 to 8 Hours a Day</a>
             <a class="post-link" href="../everyone-who-smiles-does-wrong/">Everyone Who Smiles Does Wrong</a>
+            <a class="post-link" href="../donald-canestraros-court-filing/">Donald Canestraro's Court Filing</a>
+            <a class="post-link" href="../come-to-your-senses/">Come to Your Senses</a>
+            <a class="post-link" href="../bad-blood-bubble-up/">Bad Blood Bubble-Up</a>
+            <a class="post-link" href="../love-is-in-the-air/">Love is in the Air</a>
+            <a class="post-link" href="#">Greed</a>
         </li>
     </ul>
 </div>
