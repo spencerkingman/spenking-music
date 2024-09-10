@@ -29,9 +29,9 @@ on a canvas with no tooth
   
 there's a tunnel beneath  
 the stupidity of my grief  
-dig it up, if you dare  
-buried only a plastic army there  
-come a gift, come a theft  
+I smuggle out the debris
+smuggle in the expansive symphony
+become a gift, become a theft  
 ill wind, out of breath  
   
 hard to relate   
@@ -46,9 +46,9 @@ keep yer apologies
 you don't know how to turn it off  
 no matter what you do  
   
-dig a tunnel beneath  
+I'm dug in deep underneath  
 the acidity of my grief  
-I could ride there a year  
+I'm dug in year-over-year  
 buzz a fly in the face of every fear   
 not a gift, not a theft  
 ill wind, out of breath   
