@@ -29,8 +29,8 @@ on a canvas with no tooth
   
 there's a tunnel beneath  
 the stupidity of my grief  
-I smuggle out the debris
-smuggle in the expansive symphony
+I smuggle out the debris  
+smuggle in the expansive symphony  
 become a gift, become a theft  
 ill wind, out of breath  
   
