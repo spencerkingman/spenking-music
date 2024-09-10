@@ -47,7 +47,7 @@ It's blowing in the wind, ice, fire, water, and sand
 Who can raise a crop? Who can raise a sail?  
 Europe is a fortress, and America's a jail  
   
-The average fingerprint is over 4 metric tons  
+The average little foot is over 4 metric tons  
 But in America it's 20: oil, money and guns  
 Even off the grid you'd still be pushing 8 or 9  
 It's enough to make you cynical, but now is not the time  
