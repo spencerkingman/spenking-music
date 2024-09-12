@@ -7,7 +7,7 @@ categories:
 published: true
 ---
 
-(capo: 4)
+(blue: 4)
 
 A primal screen  
 I can't look at it  

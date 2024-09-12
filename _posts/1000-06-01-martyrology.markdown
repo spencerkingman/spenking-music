@@ -37,7 +37,7 @@ I can't talk
    
 River in a rock  
 Don't scoop my cup  
-Taste bloody in a whirlwind  
+Taste muddy in a whirlwind  
 Spiraled up  
 It's how close?  
 I half-know  
