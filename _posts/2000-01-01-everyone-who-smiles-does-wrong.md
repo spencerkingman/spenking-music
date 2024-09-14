@@ -7,6 +7,8 @@ categories:
 published: true
 ---
 
+(red: 3)
+
 `xxx343            xxx121 xxx343`  
 everyone who smiles does wrong  
 if they do they want the car  

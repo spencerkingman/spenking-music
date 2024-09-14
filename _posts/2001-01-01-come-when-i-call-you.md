@@ -8,7 +8,7 @@ published: true
 ---
 
 (by Woody Guthrie, Klezmatics)  
-(capo: blue 1)
+(capo: red 5)
 
 Oh, will you come when I call you?  
 I’ll come when you call me.  

@@ -9,7 +9,7 @@ published: true
 
 (by L'Rain)  
 (Drop D Tuning)  
-(capo: blue 7)
+(capo: red 7)
 
 ```
 ------0-2-----------------------------------  
