@@ -64,7 +64,7 @@ Tower over all I see
   
 Life is off in hiding  
 Death is on parade  
-Come out from his shadow  
+Shelter in his shadow  
 Live beneath his blade  
 
 <div style="height: 1rem;"></div>
