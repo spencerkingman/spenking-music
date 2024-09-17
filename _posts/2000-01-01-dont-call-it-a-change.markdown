@@ -19,7 +19,6 @@ When You're going extinct
 Don't call it a change  
 You're going extinct  
 Don't call it a change  
-Don't call it a climate change  
    
 2 degrees is holding like a Maginot wall  
 In Fahrenheit its 4 degrees, but that's overall  
@@ -40,7 +39,7 @@ Why sing about anything else?
 Don't call it a change  
 You're going extinct  
 Don't call it a change  
-Don't call it a climate change  
+Don't call it a climate  
   
 A genocide is crawling on the face of the land  
 It's blowing in the wind, ice, fire, water, and sand  
@@ -53,16 +52,16 @@ Even off the grid you'd still be pushing 8 or 9
 It's enough to make you cynical, but now is not the time  
   
 There's twenty trillion dollars in the offshore accounts  
-How much would it cost to put the carbon underground?  
+How much would it cost to put it all underground?  
 You can suck it from the air and fuse it with basalt  
 I don't want to die with all this money in a vault  
 Or why not plant a shit-ton of trees?  
   
-We're going extinct  
+When you're going extinct  
 Don't call it a change  
 We're going extinct  
 Don't call it a change  
-Don't call it a climate change  
+Don't call it a climate  
   
 Is it easier to see the end of all living things  
 Then to take over the market and the chaos it brings?  
