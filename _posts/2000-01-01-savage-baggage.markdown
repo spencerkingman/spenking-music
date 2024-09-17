@@ -18,7 +18,7 @@ Family chemistries cut the line.
 Why do I believe in what will grow?  
 Cover up the window with the door.  
 Careful, I'm not too sore to explore  
-    So, come and land, u.f.o.  
+    So, come and land, u.f.o.  
     Aliens will lay me low  
     Let it go
 
