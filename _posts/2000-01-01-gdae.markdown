@@ -1,11 +1,12 @@
 ---
 layout: post
-title: 'GDAE'
+title: "GDAE"
 permalink: /gdae/
 categories: 
     - " "
 published: true
 ---
+
 
 (red 1)
 
