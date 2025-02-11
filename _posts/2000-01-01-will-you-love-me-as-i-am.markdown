@@ -7,8 +7,8 @@ categories:
 published: true
 ---
 
-Will you love me as I am? / take on me like a birdie in the hand / Will you sing me like a song? / Tune me into the melody you carry along / inside of you / Will you wind my line 'round yr book of bad days? /
-curling out like a spiral here and there on the page / The dog with the mannish face / can bury me / like a capsule lapsing time / and I'll grow / heaven know / like a rose
+Will you love me as I am? / take on me like a birdie in the hand / Will you sing me like a song? / Tune me into the melody you carry along / inside of you / Will you wind my line 'round yr book of had days? /
+I'm curling out like a spiral here and there on the page / The dog with the mannish face / can bury me / like a capsule lapsing time / and I'll grow / heaven know / like a rose
 
 Find a stud in the wall, and I'll hang us a painting that'll never fall / a color to your magic eye / a'hanging / over and over / the breath of the bleeding sun / over and over / the mountains of megaton / over and over / the spread of the day and night / over and over and over / To reckon with the recondite
 

@@ -10,48 +10,48 @@ published: true
 (red: 0)
 
 hard to relate my whole life  
-in a ball of phrases.  
-hard to relate what i want   
-through a hole in my hand.  
+<span style="padding-left:1em;">in a ball of phrases</span>  
+hard to relate all i want   
+<span style="padding-left:1em;">through a hole in my hand</span>  
 hard to relate to these gods   
-with their subtle faces.  
-hard to relate, heart-to-heart.  
+<span style="padding-left:1em;">with their sort-of faces</span>  
+hard to relate, heart-to-heart  
   
 deepest apologies  
-i don't know how to pull it off  
+i don't know how to even talk  
 
 the animal has the benefit  
 of an instinct to be in-sync  
-but I've only burnt the filament  
-with a tin drum   
+but I only burn out the filament  
+of a tin drum   
 and a blue streak  
 on a canvas with no tooth  
   
-there's a tunnel beneath  
-the stupidity of my grief  
-to clear away the debris  
-and smuggle in the expansive sympathy  
-become a gift, become a theft  
-ill wind, out of breath  
+is it gone out of me  
+<span style="padding-left:1em;">the stupidity and the grief?</span>  
+clear away the debris  
+<span style="padding-left:1em;">smuggle any expansive sympathy</span>  
+come a gift, come a theft  
+<span style="padding-left:1em;">ill wind, out of breath</span>  
   
-hard to relate   
-to celebrity demon-angels  
-hard to relate   
-to the mountains of Afghanistan   
-hard to relate  
-to these cancers and new diseases    
+it's hard to relate   
+<span style="padding-left:1em;">to celebrity demon-angels</span>  
+it's hard to relate   
+<span style="padding-left:1em;">to the mountains of Afghanistan</span>   
+it's hard to relate  
+<span style="padding-left:1em;">to a tempest of new diseases</span>    
 hard to relate, far too hard  
   
 keep your apologies  
-you don't know how to turn it off  
+you don't know how fend it off  
 no matter what you do  
   
 I'm dug in deep underneath  
-the acidity of my grief  
+<span style="padding-left:1em;">the lucidity of the grief</span>  
 dug in year-over-year  
-buzz a fly in the face of every fear   
-not a gift, not a theft  
-ill wind, out of breath   
+<span style="padding-left:1em;">buzz a fly in the face of every fear</span>   
+come a gift, come a theft  
+<span style="padding-left:1em;">ill wind, out of breath</span>   
   
 come to yer senses or nought  
 come to yer senses or nought  
