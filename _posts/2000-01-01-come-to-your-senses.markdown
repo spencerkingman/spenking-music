@@ -3,7 +3,7 @@ layout: post
 title: "Come to Your Senses"
 permalink: /come-to-your-senses/
 categories: 
-    - " "
+    - "Muzzle Tung"
 published: true
 ---
 

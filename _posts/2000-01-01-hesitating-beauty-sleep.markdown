@@ -1,11 +1,16 @@
 ---
 layout: post
-title: "new"
+title: "Hesitating Beauty Sleep"
 permalink: /new/
 categories: 
-    - " "
+    - "Muzzle Tung"
 published: true
 ---
+
+to drain a pail of midnight owl epiphanies
+and hestitating beauty sleep
+
+cover your eyes with aluminium
 
 ```
 ---------------------------------  
