@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Love is in the Air'
-permalink: /love-is-in-the-air/
+title: 'Hand Against the Wind'
+permalink: /hand-against-the-wind/
 categories: 
     - "Muzzle Tung"
 published: true
@@ -26,15 +26,15 @@ Light a candle in my ear
 Thread by hanging wall  
 Am I anything at all?  
   
-Laid across the floor  
+Laid all across the floor  
 Like a hand against the wind  
-Traveling black in time  
-Hunger to no end  
+Traveling blackened time  
+Hunkered to no end  
 
 <div style="height: 1rem;"></div>
 
-May I have this dance  
-While our love is in the air?  
+It's hard to not have this dance  
+While our love is in the air
 Filling the great expanse  
 Brimming every moment spare  
   
@@ -46,38 +46,38 @@ How can this be then done to you?
 <div style="height: 1rem;"></div>
 
 Scaling the wall of life  
-With a meaning to inscribe  
+Here, a meaning to inscribe  
 Read it from your age  
 If a miracle survive  
   
-Cup that runneth under  
-Tessellations on the land  
+Cup that runs away
+Tessellation on the land  
 Obsoleted map  
 And I don't know where I am  
 
 <div style="height: 1rem;"></div>
 
-Cultured as they come  
+Spirited as they come  
 But at a loss for what to be  
 Conspirators of remorse  
 Tower over all I see  
   
 Life is off in hiding  
 Death is on parade  
-Shelter in his shadow  
-Live beneath his blade  
+Hunker down in his shadow  
+Live between his blades  
 
 <div style="height: 1rem;"></div>
 
-What do I have to win  
-In the window that I'm in?  
-Picture and pretend,  
-Or the matter to contend?  
+What do I have to lose  
+In the window that you choose 
+Everything I know,  
+All above and all below  
   
 Someone send me somewhere  
-Lead me through the fray  
-Not too long ago  
-Not too far away  
+Sing me through the fray  
+Not the song I know  
+Not the one I play
 
 <audio controls style="width:100%;margin:2rem auto 0;">
   <source src="../assets/audio/Love is in the Air.mp3" type="audio/mpeg">
