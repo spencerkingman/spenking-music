@@ -20,7 +20,8 @@ Any line against the immigrant wind
 Can scarce contain a sky of rain
 
 A mouthful of this barbed wire can only detain a word  
-So long as it's fire's kept alive, and it's ransom's heard
+So long as it's fire's kept alive, and it's ransom's heard  
+(Chance on bird)
 
 I've been on this journey  
 I need another home  
@@ -36,10 +37,11 @@ Come out, get in
 Outside-in and out again  
 Through this flaming door  
 A man, no more coherently inhabiting  
-My remembered place. It's half-erased.
+Unabandoned place. It's half-erased.
 
 But a desert full of bone men can only detain a word  
 So long as their ire's kept alive and their ransom heard
+(Chance on bird)
 
 I've been on this journey  
 I need another home  

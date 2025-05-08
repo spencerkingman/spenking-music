@@ -30,7 +30,7 @@ on a canvas with no tooth
 is it gone out of me  
 <span style="padding-left:1em;">the stupidity and the grief?</span>  
 clear away the debris  
-<span style="padding-left:1em;">smuggle any expansive sympathy</span>  
+<span style="padding-left:1em;">smuggle in the expansive sympathy</span>  
 come a gift, come a theft  
 <span style="padding-left:1em;">ill wind, out of breath</span>  
   
@@ -43,7 +43,7 @@ it's hard to relate
 hard to relate, far too hard  
   
 keep your apologies  
-you don't know how fend it off  
+you don't know how to fend it off  
 no matter what you do  
   
 I'm dug in deep underneath  

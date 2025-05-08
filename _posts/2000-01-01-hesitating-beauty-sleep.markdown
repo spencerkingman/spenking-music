@@ -1,12 +1,57 @@
 ---
 layout: post
-title: "Hesitating Beauty Sleep"
-permalink: /hesitating-beauty-sleep/
+title: "Stanislav Arkhipov"
+permalink: /stanislav-arkhipov/
 categories: 
     - "Muzzle Tung"
 published: true
 ---
 
+to drain  
+a tide  
+of midnight hour  
+epiphanies  
+with hesitating beauty sleep  
+cook up your eyes with hypnogogic steam  
+and e'er heroic cherubim  
+
+for every time the clock  
+ticks a broken tock  
+will there be a Stanislav?  
+an Arkhipov, Peroots?  
+a state-of-head in suits  
+to muzzle the dogs?  
+
+strange (hands all tied down a shiver spine)
+delight (rang my neck like a chicken rhyme) 
+to falsify
+the appetite
+for chivalry and courage, ripe
+would it amount to easy listening
+to never hear and never scream?
+
+for everytime the talk
+clicks a broken clock
+will there be a Stanislav? 
+an Arkhipov, Peroots?
+an un-assassinated, fool-proof,
+cool head in a code red? 
+sure, sure. I'm sure.
+
+blur sky, white edge
+moonrise, swan wedge
+strange dove, flail safe
+break the arrows, why wait?
+
+for any time the clock
+ticks a broken tock
+will there be a Stanislov? 
+an Arkhipov, Peroots?
+a state of head in suits 
+to muzzle the dogs?
+
+
+--------------
 
 ```
 [A intro/outro]
@@ -29,22 +74,15 @@ published: true
 ---------------------------------  
 ```
 
-to drain a pail of midnight owl epiphanies  
-and hestitating beauty sleep  
-
-
 ```
 [C connecting]
 ------0----------------------  
-----8-0-----x4---------------  
+----8-0----------------------  
 ---7--0----------------------  
 --7--------------------------  
 -0---------------------------  
 -----------------------------  
 ```
-
-cover your eyes with aluminium  
-
 
 ```
 [D chorus]
@@ -100,16 +138,3 @@ cover your eyes with aluminium
 [A intro/outro]
 ```
 
-## Another song
-
-```
------0-----0-------4---5---------  
--7-----7-7-----0-2---2-----------  
----6---------6---2---2-----------  
------------------2---2-----------  
------------------0---0-----------  
----------------------------------  
-```
-```
-Fm9 E7 B7
-```
