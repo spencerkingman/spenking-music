@@ -70,7 +70,7 @@ Live between his blades
 <div style="height: 1rem;"></div>
 
 What do I have to lose  
-In a window this shot through  
+In a window this shot through?  
 Anything good that moves  
 Hand against the wind   
   
