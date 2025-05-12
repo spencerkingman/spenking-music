@@ -22,33 +22,33 @@ an Arkhipov, Peroots?
 a state-of-head in suits  
 to muzzle the dogs?  
 
-strange (hands all tied down a shiver spine)
-delight (rang my neck like a chicken rhyme) 
-to falsify
-the appetite
-for chivalry and courage, ripe
-would it amount to easy listening
-to never hear and never scream?
+strange (hands all tied down a shiver spine)  
+delight (rang my neck like a chicken rhyme)  
+to falsify  
+the appetite  
+for chivalry and courage, ripe  
+would it amount to easy listening  
+to never hear and never scream?  
 
-for everytime the talk
-clicks a broken clock
-will there be a Stanislav? 
-an Arkhipov, Peroots?
-an un-assassinated, fool-proof,
-cool head in a code red? 
-sure, sure. I'm sure.
+for everytime the talk  
+clicks a broken clock  
+will there be a Stanislav?   
+an Arkhipov, Peroots?  
+an un-assassinated, fool-proof,  
+cool head in a code red?  
+sure, sure. I'm sure.  
 
-blur sky, white edge
-moonrise, swan wedge
-strange dove, flail safe
-break the arrows, why wait?
+blur sky, white edge  
+moonrise, swan wedge  
+strange dove, flail safe  
+break the arrows, why wait?  
 
-for any time the clock
-ticks a broken tock
-will there be a Stanislov? 
-an Arkhipov, Peroots?
-a state of head in suits 
-to muzzle the dogs?
+for any time the clock  
+ticks a broken tock  
+will there be a Stanislov?   
+an Arkhipov, Peroots?  
+a state of head in suits   
+to muzzle the dogs?  
 
 
 --------------
