@@ -8,7 +8,7 @@ published: true
 ---
 
 (by Bowerbirds)  
-(brown: 1)
+(red:0)
 
 `Am C/G`  
 `Am C/G G F(E)`
