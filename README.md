@@ -16,6 +16,7 @@ This is run off of a blog framework, so the order of the posts comes from "dates
 - 2000 years are uncollected songs I wrote (Category is `" "`)
 - 2001 years are "Covers" I want to keep track of
 - 2002 years are covers I don't really care about anymore, could be deleted
+- 2003 years are "10K Covers" for my 10,000 Maniacs Covers EP.
 - 4000 years are miscellaneous files.
 
 ## Compressing video assets

@@ -1,10 +1,11 @@
 ---
 layout: page
-title: Set List
-permalink: /set-list/
+title: Set Lists
+permalink: /set-lists/
 ---
 
 <div class="home">
+    <h2>September 8, 2024 - Bantha Tea Bar</h2> 
     <ul class="post-list">
         <li>
             <a class="post-link" href="../come-when-i-call-you/">Come When I Call You</a>
