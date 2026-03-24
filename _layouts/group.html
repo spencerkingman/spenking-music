@@ -1,0 +1,34 @@
+---
+layout: default
+---
+
+<div class="home">
+    <h2 class="post-link album-name">{{ page.group_name }}</h2>
+    <ul class="post-list">
+        {%- if page.group_name == "Uncollected" -%}
+            {%- for post in site.posts reversed -%}
+                {%- unless post.categories contains "Muzzle Tung" -%}
+                    {%- unless post.categories contains "Bad Blood, Good Blood" -%}
+                        {%- unless post.categories contains "Crosses Split" -%}
+                            {%- unless post.categories contains "Covers" -%}
+                                {%- unless post.categories contains "10K Covers" -%}
+                                    <li>
+                                        <a class="post-link" href="{{ post.url | relative_url }}"> {{ post.title | escape }} </a>
+                                    </li>
+                                {%- endunless -%}
+                            {%- endunless -%}
+                        {%- endunless -%}
+                    {%- endunless -%}
+                {%- endunless -%}
+            {%- endfor -%}
+        {%- else -%}
+            {%- for post in site.posts reversed -%}
+                {%- if post.categories contains page.group_name -%}
+                    <li>
+                        <a class="post-link" href="{{ post.url | relative_url }}"> {{ post.title | escape }} </a>
+                    </li>
+                {%- endif -%}
+            {%- endfor -%}
+        {%- endif -%}
+    </ul>
+</div>
