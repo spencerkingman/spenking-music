@@ -7,7 +7,7 @@ categories:
 published: true  
 ---  
   
-(by 10,000 Maniacs)
+(by 10,000 Maniacs)  
 (blue 7)
 
 ```

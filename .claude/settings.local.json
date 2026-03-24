@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(rm /Users/spencerkingman/projects/spenking-music/Gemfile.lock)",
+      "Bash(/Users/spencerkingman/.rubies/ruby-3.3.10/bin/bundle install:*)"
+    ]
+  }
+}
