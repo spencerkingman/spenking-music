@@ -5,7 +5,7 @@ layout: default
 <div class="home">
     {{ content }}
 
-    <h2 class="post-link album-name" name="Uncollected">Uncollected</h2>
+    <h2 class="post-link album-name" id="uncollected" name="Uncollected">Uncollected</h2>
     <ul class="post-list">
         {%- for post in site.posts reversed -%}
             {%- unless post.categories contains "Muzzle Tung" -%}
@@ -24,7 +24,7 @@ layout: default
         {%- endfor -%}
     </ul>
 
-    <h2 class="post-link album-name" name="Muzzle Tung">Muzzle Tung</h2>
+    <h2 class="post-link album-name" id="muzzle-tung" name="Muzzle Tung">Muzzle Tung</h2>
     <ul class="post-list">
         {%- for post in site.posts reversed -%}
         {%- if post.categories contains "Muzzle Tung" -%}
@@ -35,7 +35,7 @@ layout: default
         {%- endfor -%}
     </ul>
 
-    <h2 class="post-link album-name" name="Bad Blood, Good Blood">Bad Blood, Good Blood</h2>
+    <h2 class="post-link album-name" id="bad-blood-good-blood" name="Bad Blood, Good Blood">Bad Blood, Good Blood</h2>
     <ul class="post-list">
         {%- for post in site.posts reversed -%}
         {%- if post.categories contains "Bad Blood, Good Blood" -%}
@@ -46,7 +46,7 @@ layout: default
         {%- endfor -%}
     </ul>
 
-    <h2 class="post-link album-name" name="Crosses Split">Crosses Split</h2>
+    <h2 class="post-link album-name" id="crosses-split" name="Crosses Split">Crosses Split</h2>
     <ul class="post-list">
         {%- for post in site.posts reversed -%}
         {%- if post.categories contains "Crosses Split" -%}
@@ -57,7 +57,7 @@ layout: default
         {%- endfor -%}
     </ul>
 
-    <h2 class="post-link album-name" name="Covers">Covers</h2>
+    <h2 class="post-link album-name" id="covers" name="Covers">Covers</h2>
     <ul class="post-list">
         {%- for post in site.posts reversed -%}
         {%- if post.categories contains "Covers" -%}
@@ -68,7 +68,7 @@ layout: default
         {%- endfor -%}
     </ul>
 
-    <h2 class="post-link album-name" name="10K Covers">10K Covers</h2>
+    <h2 class="post-link album-name" id="10k-covers" name="10K Covers">10K Covers</h2>
     <ul class="post-list">
         {%- for post in site.posts reversed -%}
         {%- if post.categories contains "10K Covers" -%}
