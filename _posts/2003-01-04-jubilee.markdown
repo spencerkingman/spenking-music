@@ -9,7 +9,7 @@ published: true
   
 (by 10,000 Maniacs)
 
-`Cm E♭ B♭ A♭`  
+`Gm9 Dm Gm9 Dm Eb Bb Cm Ab`  
 He fills the flower vases, trims the candle bases,  
 Takes small change from the poor box.  
 Tyler has the key.  
@@ -17,7 +17,8 @@ Tyler has the key.
 He takes nail and hammer to tack up the banner  
 Of felt scraps glued together reading,  
 "Jesus Lives In Me."  
-  
+
+`Cm Eb Cm Eb Fm x2 Cm`  
 Alone in the night he mocks the words of the preacher:  
 "God is feeling your every pain."  
   
@@ -66,6 +67,8 @@ And the man-handling.
 Black hands on white shoulders, white hands on black shoulders,  
 Dancing, and you know what's more.  
   
+`Cm`
+
 Through the tall blades of grass he heads for the Jubilee  
 With a bucket in his right hand full of rags soaked in gasoline.  
 He lifts the shingles in the dark and slips the rags there underneath.  
