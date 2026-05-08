@@ -8,7 +8,7 @@ published: true
 ---  
   
 (by 10,000 Maniacs)  
-(blue 7)
+(blue 7, red 8)
 
 ```
 -------------------02-------------
