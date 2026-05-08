@@ -27,7 +27,7 @@ of something deep...
     in the keep.  
         a masterpiece,  
         uncomprehending.  
-           a dinner off the Arecibo  
+           a message off the Arecibo  
            dish, collapsed, but ever sending.  
 
 Ohh-sham-jio.  
@@ -43,7 +43,7 @@ sifting the particle fines
 trapped in the sink of my Mponeng tabular mind  
 
 Always on the precipice  
-of something deep...
+of something deeper...
 
 Last night,  
 I was blubbering over you.  
@@ -56,11 +56,11 @@ I was blubbering over you.
             as summers bend.  
 
 We're always on the purge  
-of something deeper... 
+of something deep  
     to beat a headlong lunge  
     at the gunge.  
-         its burning alive  
-         on arrival  
+         a buried alive  
+         on arrival.  
             a tippy-toe annihilation  
             out over your skis   
             at the ballet recital.  
